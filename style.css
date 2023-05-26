@@ -1,4 +1,15 @@
-body {
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #0404b7;;
+    font-family: font-family: 'Playfair', serif;
+}
+
+.cabeçalho{
+    margin: 0px;
+    padding: 0px;
     background-color: #000093;
-    color:blanchedalmond
+    display: flex;
+    
+
 }
