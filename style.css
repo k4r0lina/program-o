@@ -1,7 +1,7 @@
-body{
+.header{
     padding: 0px;
     margin: 0px;
-    background-color: #0404b7;;
+    background-color: #0404b7;
     font-family: font-family: 'Playfair', serif;
 }
 
@@ -10,6 +10,7 @@ body{
     padding: 0px;
     background-color: #000093;
     display: flex;
+    align-items: center;
     
 
 }
