@@ -3,4 +3,5 @@ header{
     color: white;
     display: flex;
     justify-content: space-around;
+    font-family: 'Quicksand', sans-serif;
 }
