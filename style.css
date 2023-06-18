@@ -1,5 +1,5 @@
 header{
-    background-color: #000093;
+    background-color: #d4dcdd;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -11,6 +11,6 @@ header{
 }
 
 .colégio{
-    background-image: linear-gradient(#000093,#101013);
-    color: white;    
+    display: flex;
+    background-image: linear-gradient(#000093,#d4dcdd);
 }
