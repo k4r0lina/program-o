@@ -11,6 +11,5 @@ header{
 }
 
 .colégio{
-    display: flex;
-    background-image: linear-gradient(#000093,#d4dcdd);
+     background-image: linear-gradient(#000093,#d4dcdd);
 }
