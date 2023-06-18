@@ -18,6 +18,6 @@ header{
 }
 
 .colégio{
-     background-image: -o-linear-gradient(#000093,#d4dcdd)
+     background-image: linear-gradient(#000093,#d4dcdd)
      color: white;
 }
