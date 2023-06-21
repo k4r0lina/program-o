@@ -12,6 +12,7 @@ header{
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 30px;
     align-items: center;
     font-family: 'Quicksand', sans-serif;
 }
