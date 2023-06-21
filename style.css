@@ -13,7 +13,6 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -26,8 +25,4 @@ header{
     color: white;
     display: flex;
     justify-content: center;
-}
-
-.colégio-div-coteudo{
-    width: 35%;
 }
